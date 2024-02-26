@@ -1,0 +1,91 @@
+/* body{
+    background-color: rgb(250, 211, 231);
+    width: 50%;
+    height: 100rem;
+}
+#img1{
+    width: 30%;
+    height: 20%;
+
+} */
+
+body {
+    background-color: rgb(250, 211, 231)
+}
+.container {
+    width: 50%;
+    margin: 2rem auto;
+    background-color: white;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+.img-conainer {
+    width: 100%;
+}
+
+.image {
+    width: 100%;
+    border-radius: 1rem;
+}
+.Preparation-container {
+    background-color: rgb(251, 248, 245);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.pre {
+    color: rgb(119, 16, 69);
+}
+.inst {
+    color: rgb(139, 17, 80);
+}
+.ingre {
+    color: rgb(119, 16, 69);
+}
+.nut {
+    color: rgb(119, 16, 69);
+}
+.table1{
+    display: flex;
+    margin-left: 5%;
+    gap: 39%;
+}
+.table2{
+    margin-left: 5%;
+    display: flex;
+    gap: 42%;
+}
+.table3{
+    margin-left: 5%;
+    display: flex;
+    gap: 40%;
+}
+.table4{
+    margin-left: 5%;
+    display: flex;
+    gap: 44%;
+}
+.cal_value{
+    color: rgb(119, 43, 13);
+    font-weight: bolder;
+}
+.carb_value{
+    color: rgb(119, 43, 13);
+    font-weight: bolder;
+}
+.pro_value{
+    color: rgb(119, 43, 13);
+    font-weight: bolder;
+}
+.fat_value{
+    color: rgb(119, 43, 13);
+    font-weight: bolder;
+}
+.ingredients{
+    color: rgb(119, 43, 13);
+}
+.instruction{
+    color: rgb(119, 43, 13);
+}
+.nutrition{
+    color: rgb(119, 43, 13);
+}
